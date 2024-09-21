@@ -1,1 +1,14 @@
-
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+venv/
+env/
+.venv/
+.env/
+*.log
+*.tmp
+*.temp
+data/*.csv
+*.swp
+*.bak
+*.bkp
