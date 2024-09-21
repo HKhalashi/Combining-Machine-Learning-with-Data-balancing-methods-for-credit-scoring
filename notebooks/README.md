@@ -21,4 +21,4 @@
 2. Follow the steps in the notebooks to understand the data preprocessing, feature selection, model training, and evaluation processes.
 3. The notebooks contain the results and figures directly, so no need for separate files for results.
 
-Each notebook is self-contained, providing a comprehensive understanding of the experiments and the corresponding results.
+Each notebook is self-contained, providing an understanding of the experiments and the corresponding results.
